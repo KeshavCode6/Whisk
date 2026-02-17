@@ -10,10 +10,10 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.expo-starter-kit-typescript"
+      "bundleIdentifier": "pro.keshav.whisk"
     },
     "android": {
-      "package": "com.anonymous.expostarterkittypescript",
+      "package": "pro.keshav.whisk",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
